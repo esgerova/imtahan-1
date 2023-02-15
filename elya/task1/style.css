@@ -1,0 +1,28 @@
+h1{
+    display: flex;
+}
+
+.top{
+    display: flex;
+    gap: 50px;
+    font-size:20px;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 1000px;
+}
+
+.top>i{
+    font-size: 200px;
+}
+
+.bottom{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 1000px;
+}
+
+.bottom>i{
+    font-size: 100px;
+}
